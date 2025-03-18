@@ -25,3 +25,48 @@
 #cadena = " Esto es una cadena para manipular "
 #nueva_cadena = cadena.strip().upper().split()
 #print(nueva_cadena)
+
+#Ejercicio 4
+
+#cadena_extensa = "Python es un super lenguaje que me re encanta"
+#subcadena = cadena_extensa[0:6] + "" + cadena_extensa [11:20]
+#resultado = subcadena[::-1]
+#print(resultado)
+
+#Ejercicio 5
+
+#entero, flotante, complejo = 12, 345.23976, 5+3j
+#formato = f"Entero: {entero}, Flotante: {flotante: .2f}, Notacion CIentifica: {flotante:.2e}"
+#print(formato)
+
+# Ejercicio 6
+
+#num_a, num_b = 15, 4
+#cad_a, cad_b = "La multiplicación da: " , "y el resto es: "
+#resultado = f"{cad_a}{num_a*num_b}, {cad_b}{num_a%num_b}"
+#print(resultado)
+
+
+# Ejercicio 7
+
+#largo, ancho, radio, altura = 10, 5, 3, 4
+#area_rectangulo = largo*ancho
+#perimetro_rectangulo = 2*(largo+ancho)
+#area_circulo = 3.14 * radio ** 2
+#perimetro_circulo = 2*3.14*radio
+#area_triangulo = (largo*altura)/2
+#resultado = (f"Area de un rectangulo: {area_rectangulo}, "
+#f"perimetro del rectangulo {perimetro_rectangulo}, "
+             #f"\nCirculo: Area:{area_circulo} y perimetro: {perimetro_circulo}, "
+
+#print(resultado)
+
+Ejercicio 8.
+
+parrafo = "Soy un ejemplo de parrafo largo de narices para ocupar todo el espacio"
+caracteres = len(parrafo)
+palabroides = len(parrafo.split())
+mayusculas = parrafo.upper()
+resultado = (f"Total de caracteres: {caracteres},"
+            f"total de palabras: {palabroides}, "
+            f"Texto en mayusculas: {mayusculas}, ")
