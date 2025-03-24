@@ -12,7 +12,7 @@ print("Esto soy yo en mayúsculas: ", nombre.upper())
 #lower
 print("Esto soy yo en minúsculas: ", nombre.lower())
 
-#. Slicing
+#3. Slicing
 print("Primeros 3 caracteres: ", nombre [ :3])
 print("Últimos 4 caracteres: ", nombre[-4:])
 
