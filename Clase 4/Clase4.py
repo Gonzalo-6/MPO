@@ -61,12 +61,25 @@
 
 #print(resultado)
 
-Ejercicio 8.
+#Ejercicio 8.
 
-parrafo = "Soy un ejemplo de parrafo largo de narices para ocupar todo el espacio"
+parrafo = "Soy un ejemplo de parrafo largo de narices para ocupar todo el espacio posible"
 caracteres = len(parrafo)
 palabroides = len(parrafo.split())
 mayusculas = parrafo.upper()
-resultado = (f"Total de caracteres: {caracteres},"
-            f"total de palabras: {palabroides}, "
-            f"Texto en mayusculas: {mayusculas}, ")
+resultado = (f"Total de caracteres: {caracteres}, total de palabras: {palabroides}, Texto en mayusculas: {mayusculas}, ")
+print(resultado)
+
+# Ejercicio 9
+a, b, c = 1, -3, 2
+discriminante = (b ** 2-4*a*c)**0.5
+raiz1 = (-b + discriminante)/(2*a)
+raiz2 = (-b-discriminante)/(2*a)
+resultado= f"Coeficientes: a={a}, b={b}, c={c}. Raíces: {raiz1}, {raiz2}"
+print(resultado)
+
+#Ejercicio 10
+nombre, edad, peso, altura= "Gonzalo", 41, 74, 175
+imc= peso / altura **2
+resultado = f"Nombre: {nombre}, Edad: {edad}, Peso: {peso} kg, Altura: {altura} cm, IMC: {imc:2f}"
+print(resultado)

@@ -56,7 +56,9 @@ print("5 al cuadrado es : ", numero_al_cuadrado ** 2)
 
 #12. Raiz cuadrada
 
-
+#Operador **para calcular potencias
+numerito = 5
+print("5 elevado al cuadrado: ", numerito **2)
 
 
 

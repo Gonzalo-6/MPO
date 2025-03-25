@@ -29,3 +29,4 @@ print(False*50)
 print(10>5 and 3<8)
 print(5==5 or 2>10)
 print(not(4==4 and 3>1))
+

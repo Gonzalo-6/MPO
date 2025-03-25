@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06701eb3-eb05-463a-aff9-0c4ebec0d8c2" name="Changes" comment="dia 18/3">
+    <list default="true" id="06701eb3-eb05-463a-aff9-0c4ebec0d8c2" name="Changes" comment="dia 24/3">
+      <change afterPath="$PROJECT_DIR$/Clase 5/Clase5.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Clase 3/Clase3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Clase 3/Clase3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Clase 5/Clase5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase 4/Clase4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Clase 4/Clase4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase 5/Clase5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Clase 5/Clase5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +59,7 @@
     "Notification.DoNotAsk-Vcs Important Messages": "true",
     "Python.Clase3.executor": "Run",
     "Python.Clase4.executor": "Run",
+    "Python.Clase5.2.executor": "Run",
     "Python.Clase5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -109,12 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1742324075569</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dia 24/3">
+      <option name="closed" value="true" />
+      <created>1742842845974</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742842845974</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="clase 4" />
     <MESSAGE value="dia 18/3" />
-    <option name="LAST_COMMIT_MESSAGE" value="dia 18/3" />
+    <MESSAGE value="dia 24/3" />
+    <option name="LAST_COMMIT_MESSAGE" value="dia 24/3" />
   </component>
 </project>
